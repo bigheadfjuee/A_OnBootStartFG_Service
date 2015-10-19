@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\pre-dexed\debug\classes-ee6da6a951d8571572ab25a63a19a2704a4b37d6.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\pre-dexed\debug\classes-cefab1cf0aa5d9f48210ebaf2f4a80e813a6a176.jar" />
+    </item>
+    <item
+        jar="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-79634cd40e910e5dc648db8e1cbe7b8daf491b57.jar" />
+    </item>
+    <item
+        jar="D:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\Android_Studio_Test\ServiceTest\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-0f9b02dd483020e45749c1ce205960d41bb56da3.jar" />
+    </item>
+
+</items>
